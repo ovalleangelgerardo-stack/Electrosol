@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Electrosol</title>
+</head>
+<body>
+
+    <img src="logo.jpg" alt="Logo de Electrosol" width="200">
+
+    <h1>Electrosol</h1>
+    <h3>Energía confiable, futuro brillante</h3>
+
+    <hr>
+
+    <h2>Menú</h2>
+    <ul>
+        <li><a href="#inicio">Inicio</a></li>
+        <li><a href="#nosotros">Quiénes somos</a></li>
+        <li><a href="#proyecto">Proyecto: Circuito Three-Way</a></li>
+        <li><a href="#contacto">Contacto</a></li>
+    </ul>
+
+    <hr>
+
+    <h2 id="inicio">Inicio</h2>
+    <p>
+        Bienvenido a <b>Electrosol</b>, una empresa guatemalteca dedicada a brindar servicios
+        eléctricos, con miras a incursionar en el futuro en el área de energía solar. Por el
+        momento, nuestro proyecto se centra en instalaciones eléctricas, como la conexión de
+        circuitos three-way, siempre buscando la eficiencia y el uso responsable de la energía.
+    </p>
+
+    <hr>
+
+    <h2 id="nosotros">Quiénes somos</h2>
+
+    <h3>Misión</h3>
+    <p>
+        Brindar soluciones eléctricas y de energía solar confiables, eficientes y de alta calidad,
+        ofreciendo servicios profesionales que satisfagan las necesidades de nuestros clientes,
+        promoviendo el uso responsable de la energía y contribuyendo al desarrollo sostenible.
+    </p>
+
+    <h3>Visión</h3>
+    <p>
+        Ser una empresa líder y reconocida en el sector eléctrico y de energía solar,
+        destacándonos por nuestra innovación, responsabilidad, calidad y compromiso con nuestros
+        clientes, construyendo un futuro más eficiente y sostenible mediante el uso de energías
+        confiables y renovables.
+    </p>
+
+    <h3>Valores</h3>
+    <ul>
+        <li>Honestidad</li>
+        <li>Responsabilidad</li>
+        <li>Innovación</li>
+        <li>Calidad</li>
+        <li>Compromiso con el cliente</li>
+        <li>Sostenibilidad</li>
+    </ul>
+
+    <hr>
+
+    <h2 id="proyecto">Proyecto: Conexión de circuito Three-Way</h2>
+    <p>
+        Actualmente, en Electrosol nos enfocamos en la conexión de circuitos <b>three-way</b>,
+        los cuales permiten controlar un mismo punto de luz desde dos interruptores diferentes,
+        algo muy útil en pasillos, escaleras o habitaciones con dos entradas.
+    </p>
+
+    <h3>Esquema del circuito</h3>
+    <p>
+        A continuación se muestra el diagrama del circuito three-way en estado encendido, donde
+        se observa la conexión del cable vivo, el cable neutro y los dos interruptores que
+        controlan el bombillo desde diferentes puntos.
+    </p>
+    <img src="ilus_1.jpg" alt="Esquema del circuito three-way" width="500">
+
+    <h3>Montaje del proyecto</h3>
+    <p>
+        Esta es una fotografía real del montaje del circuito, realizado con dos interruptores,
+        un bombillo y las herramientas adecuadas para las conexiones y mediciones eléctricas.
+    </p>
+    <img src="imag_1.jpg" alt="Montaje real del circuito three-way" width="500">
+
+    <hr>
+
+    <h2 id="contacto">Contacto</h2>
+    <p>Dirección: 5ta Avenida 10-25, Zona 1, Ciudad de Guatemala</p>
+    <p>Teléfono: 2234-5678</p>
+    <p>Correo electrónico: contacto@electrosol.com</p>
+
+    <h3>Horario de atención</h3>
+    <p>Lunes a viernes de 8:00 a.m. a 5:00 p.m.</p>
+
+    <hr>
+
+    <p><i>Electrosol &copy; 2026 - Empresa ficticia creada con fines educativos.</i></p>
+
+</body>
+</html>
